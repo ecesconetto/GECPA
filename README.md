@@ -2,9 +2,9 @@
 ## Desenvolvimento do site e funcionalidades.
 
 ### Ideia Básica
-[ ]Recolocar o site do GECPA no ar com visual mais moderno e com domínio próprio;
-[ ]Estabelecer uma rotina para publicação semanal
-[ ]Desenvolver em conjunto com demais membros que desejarem algumas funcionalidades que podem nos ajudar nas rotinas de administração do Grupo
+[ ] Recolocar o site do GECPA no ar com visual mais moderno e com domínio próprio;
+[ ] Estabelecer uma rotina para publicação semanal
+[ ] Desenvolver em conjunto com demais membros que desejarem algumas funcionalidades que podem nos ajudar nas rotinas de administração do Grupo
 
 
 ### Ideias de funcionalidades
